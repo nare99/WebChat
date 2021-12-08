@@ -1,0 +1,7 @@
+#sideBar {
+    width: 25%;
+    background-color: rgb(216, 217, 218);
+    max-height: 96vh;
+    float: left;
+    overflow-y: scroll;
+}

@@ -1,0 +1,37 @@
+.picture{
+    padding: 25px;
+    margin-right: 25px;
+    border: 1px solid black;
+    border-radius: 50%;
+
+    background-color: cornsilk;
+}
+
+.user{
+    /* padding: 45px 35px; */
+    padding: 30px 0px;
+    border: 1px solid rgb(30, 48, 107);
+    text-align: right;
+}
+
+.name {
+    color:rgb(77, 77, 77);
+    font-weight: 700;
+}
+
+.user:hover {
+    cursor: pointer;
+    background-color: beige;
+}
+.user:focus {
+    cursor: pointer;
+    background-color: beige;
+}
+.active {
+    cursor: pointer;
+    background-color: beige;
+}
+
+.gotMessage {
+    background-color: rgb(6, 136, 6);
+}

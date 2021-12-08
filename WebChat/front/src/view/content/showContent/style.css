@@ -1,0 +1,17 @@
+#user1 {
+    background-color:rgb(106, 161, 245);
+    box-sizing: border-box;
+    width: 75%;
+    border-radius: 50px 50px;
+    padding: 15px 30px;
+}
+
+#user2 {
+    background-color:rgb(161, 197, 214);
+    text-align: right;
+    
+    box-sizing: border-box;
+    margin-left: 25%;
+    border-radius: 50px 50px;
+    padding: 15px 30px;
+}

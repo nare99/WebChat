@@ -1,0 +1,25 @@
+.start{
+    box-sizing: border-box;
+}
+#content {
+    width: 75%;
+    min-height: 85vh;
+    /* height: 100vh; */
+    max-height: 85vh;
+    background-color:rgb(241, 241, 241);
+    float:right;
+    box-sizing: border-box;
+    padding: 15px 50px;
+    overflow-y: scroll;
+}
+
+.fixed {
+    position: fixed;
+    box-sizing: border-box;
+    bottom: 0;
+    right: 0;
+    width: 75%;
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(241, 241, 241);
+}
